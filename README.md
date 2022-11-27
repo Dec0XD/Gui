@@ -1,2 +1,2 @@
 # Pojeto feito no PySimpleGUI 
-Tela de cadastro que salva em um banco de dados
+Aplicação Python que faz cadastro de usuarios e salva em um banco de dados usando framework de interface gráfica PySimpleGUI
